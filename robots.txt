@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammadnavabisweden-pixel.github.io/portfolio-portfolio/sitemap.xml
